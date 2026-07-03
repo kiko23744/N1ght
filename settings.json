@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "N1ght",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "VoidUniverseeSMP.aternos.me",
     "port": 51357,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
